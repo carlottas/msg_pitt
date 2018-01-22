@@ -7,5 +7,7 @@ sensor_msgs/PointCloud2 cloud
 std_msgs/Float32 redPercentage
 std_msgs/Float32 bluePercentage
 std_msgs/Float32 greenPercentage
+std_msgs/Float32 pinkPercentage
+std_msgs/Float32 yellowPercentage
 std_msgs/String Color
 
